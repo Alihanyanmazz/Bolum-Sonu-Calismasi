@@ -1,2 +1,2 @@
 # Bolum-Sonu-Calismasi
-Bolum Sonu Calismasi
+Alihan Yanmaz Bölüm Sonu Calismasi
